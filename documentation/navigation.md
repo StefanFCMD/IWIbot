@@ -12,7 +12,7 @@ Die coordinates.txt Datei gibt den Aufbau des Hochschul-Campus fuer den IWI-Bot 
 
 Der Name eines Wegpunktes ist auch gleichzeitig seine Navigationsanweisung. Zum Beispiel würde ein Wegpunkt mit dem Namen „XYZ“ bei erreichen seines Vorgängers in der Navigation zur Navigationsanweisung „Gehe links/rechts/geradeaus XYZ“ führen. 
 Es reicht in der Theorie aus eine Erreichbarkeit zwischen zwei Wegpunten einmal in coordinates.txt anzugeben. Die Applikation wird automatisch schließen, dass diese Erreichbarkeit auch umgekehrt gilt. Aus Gründen der Übersichtlichkeit wird jedoch dazu geraten,  für jeden Wegpunkt immer alle Nachbarn in seiner Zeile in coordinates.txt anzugeben.
-Leerzeichen werden sind im Namen in coordinates.txt als Unterstriche anzugeben. Sprich der Name „Bau G Eingang“ sollte in coordinates.txt als „Bau_G_Eingang“ geschrieben werden. In der letzendlichen Textausgabe im IWI-Bot werden die Unterstriche wieder in Leerzeichen abgeaendert.
+Leerzeichen sind im Namen in coordinates.txt als Unterstriche anzugeben. Sprich der Name „Bau G Eingang“ sollte in coordinates.txt als „Bau_G_Eingang“ geschrieben werden. In der letzendlichen Textausgabe im IWI-Bot werden die Unterstriche wieder in Leerzeichen abgeaendert.
 
 **Aktuelle Wegpunkte (annavigierbare Wegpunkte sind rot markiert; Stand: 4.3.2018):**
 
